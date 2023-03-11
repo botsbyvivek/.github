@@ -17,6 +17,6 @@ You can find me in telegram [here](https://thehtmluser.t.me). You can Ask Questi
 
 <a href="https://pay.upilink.in/pay/9544670463.wallet@paytm"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" width=40 height=20></a>
 
-**[💰 Sponsor On Github](https://github.com/sponsors/vi2k6/card)**
+[💰 Sponsor On Github](https://github.com/sponsors/vi2k6/card)
 
 **Thanks For Reading**

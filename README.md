@@ -1,4 +1,6 @@
 # .github
+
+```javascript
 (function(window) {
   (function(window){
     window.__parseFunction = function(__func, __attrs) {
@@ -571,3 +573,4 @@
 
   }(window));
 })(window);
+```

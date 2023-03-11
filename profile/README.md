@@ -7,12 +7,7 @@ You can find me in telegram [here](https://thehtmluser.t.me). You can Ask Questi
 
 **My Available Bots:**
 
-<html>
-<body>
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="myownbots/4" data-width="100%"></script>
-</body>
-</html>
-
 
 **My Programming Languages:**
 

@@ -7,7 +7,7 @@ You can find me in telegram [here](https://thehtmluser.t.me). You can Ask Questi
 
 **My Available Bots:**
 
-<script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="myownbots/4" data-width="100%"></script>
+* No Available Bots
 
 **My Programming Languages:**
 
@@ -16,5 +16,7 @@ You can find me in telegram [here](https://thehtmluser.t.me). You can Ask Questi
 **Donate:**
 
 <a href="https://pay.upilink.in/pay/9544670463.wallet@paytm"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" width=40 height=20></a>
+
+<iframe src="https://github.com/sponsors/vi2k6/card" title="Sponsor vi2k6" height="225" width="600" style="border: 0;"></iframe>
 
 **Thanks For Reading**
